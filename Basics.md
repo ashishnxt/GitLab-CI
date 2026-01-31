@@ -212,6 +212,11 @@ Test-stage:
 
 ---
 
+
+<img width="3199" height="1999" alt="Screenshot 2026-01-26 172129" src="https://github.com/user-attachments/assets/6b5a2c0b-78be-46c6-94cf-dc5cf05f494f" />
+
+<img width="3199" height="1999" alt="Screenshot 2026-01-26 172129" src="https://github.com/user-attachments/assets/2a3d37cf-1833-4e33-8c01-b48144061ef9" />
+
 ## 7. Using Runner Tags in Pipeline
 
 Specify tags in `.gitlab-ci.yml` to ensure jobs run on the correct runner.
@@ -236,6 +241,10 @@ Build-stage:
 ```
 
 ---
+
+<img width="3192" height="1990" alt="Screenshot 2026-01-25 173324" src="https://github.com/user-attachments/assets/d6ffbcca-5a8f-4dc3-aba5-49f89210dd83" />
+
+<img width="3188" height="1999" alt="Screenshot 2026-01-25 173459" src="https://github.com/user-attachments/assets/47b09230-306c-4f71-a373-a1dea4102c3a" />
 
 ## 8. Summary
 
