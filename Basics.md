@@ -116,6 +116,10 @@ Deploy-stage:
 
 Variables help manage configuration values securely and dynamically.
 
+<img width="3189" height="1999" alt="Screenshot 2026-01-25 164326" src="https://github.com/user-attachments/assets/c76449a5-9617-4a74-950a-2f7982d68802" />
+
+<img width="3191" height="1997" alt="Screenshot 2026-01-25 170241" src="https://github.com/user-attachments/assets/9e45e465-2806-4c86-9bfb-f02faf9fe979" />
+
 ### 4.1 Predefined Variables
 
 GitLab provides built‑in variables automatically during each pipeline run.
@@ -132,6 +136,8 @@ echo "Project Name: $CI_PROJECT_NAME"
 ```
 
 ---
+
+<img width="3192" height="1990" alt="Screenshot 2026-01-25 173324" src="https://github.com/user-attachments/assets/216bc96c-57a4-4bd1-9b5c-365d44ffb5aa" />
 
 ### 4.2 User‑Defined Variables (Local)
 
@@ -213,7 +219,7 @@ Test-stage:
 ---
 
 
-<img width="3199" height="1999" alt="Screenshot 2026-01-26 172129" src="https://github.com/user-attachments/assets/6b5a2c0b-78be-46c6-94cf-dc5cf05f494f" />
+<img width="3199" height="1999" alt="Screenshot 2026-01-26 111945" src="https://github.com/user-attachments/assets/a7dbe67a-33a6-408e-9267-04a50d70b93f" />
 
 <img width="3199" height="1999" alt="Screenshot 2026-01-26 172129" src="https://github.com/user-attachments/assets/2a3d37cf-1833-4e33-8c01-b48144061ef9" />
 
