@@ -4,6 +4,8 @@ This document explains how to create a basic **GitLab CI/CD pipeline** from scra
 
 ---
 
+<img width="3199" height="1999" alt="Screenshot 2026-01-25 164234" src="https://github.com/user-attachments/assets/506a9916-c66c-4f08-921e-6cd542a279a6" />
+
 ## 1. GitLab Project Setup
 
 ### 1.1 Create a Group
@@ -37,6 +39,8 @@ We will use the following stages:
 * **Deploy** – Deploy the application
 
 ---
+
+<img width="3199" height="1999" alt="Screenshot 2026-01-25 170649" src="https://github.com/user-attachments/assets/bb9137e4-87e1-435c-af43-0ccc7a85f663" />
 
 ## 3. Demo CI Pipeline (`.gitlab-ci.yml`)
 
@@ -105,6 +109,8 @@ Deploy-stage:
 ```
 
 ---
+
+<img width="3190" height="1996" alt="Screenshot 2026-01-25 173211" src="https://github.com/user-attachments/assets/13cd46b1-ff93-4ace-93f5-cb86effb851d" />
 
 ## 4. Variables in GitLab CI/CD
 
@@ -187,6 +193,8 @@ Test-stage:
 * Artifacts remain available for **1 week**.
 
 ---
+
+<img width="3192" height="1990" alt="Screenshot 2026-01-25 205023" src="https://github.com/user-attachments/assets/ade28493-b835-41b9-bef2-56cfa5abb517" />
 
 ## 6. GitLab Runner Setup
 
