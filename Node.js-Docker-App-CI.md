@@ -1,4 +1,5 @@
-<img width="3199" height="1999" alt="Screenshot 2026-01-31 210458" src="https://github.com/user-attachments/assets/3a8a607b-d415-4a2e-85e6-dcf9f96881c4" /># GitLab CI/CD Project – Node.js Docker App
+#GitLab CI/CD Project – Node.js Docker App
+
 
 This project demonstrates a **full GitLab CI/CD pipeline** for a Node.js Docker application, including build, test, push, and deploy stages.
 
@@ -39,6 +40,8 @@ Build_job:
 ```
 
 ---
+
+<img width="3194" height="1999" alt="Screenshot 2026-01-31 205805" src="https://github.com/user-attachments/assets/4ed4ac7f-64c1-432d-9582-fef5ce6f8d8d" />
 
 ### 2.2 Test Job
 
