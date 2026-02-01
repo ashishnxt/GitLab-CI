@@ -221,6 +221,10 @@ Test-stage:
 
 <img width="3199" height="1999" alt="Screenshot 2026-01-26 111945" src="https://github.com/user-attachments/assets/a7dbe67a-33a6-408e-9267-04a50d70b93f" />
 
+## Comment this line in .bash_logout file.
+
+<img width="2606" height="794" alt="Screenshot 2026-01-31 194648" src="https://github.com/user-attachments/assets/94ee3e42-0b7e-42e9-81f5-ae913a552177" />
+
 <img width="3199" height="1999" alt="Screenshot 2026-01-26 172129" src="https://github.com/user-attachments/assets/2a3d37cf-1833-4e33-8c01-b48144061ef9" />
 
 ## 7. Using Runner Tags in Pipeline
