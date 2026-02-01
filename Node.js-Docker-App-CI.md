@@ -1,4 +1,4 @@
-#GitLab CI/CD Project – Node.js Docker App
+# GitLab CI/CD Project – Node.js Docker App
 
 
 This project demonstrates a **full GitLab CI/CD pipeline** for a Node.js Docker application, including build, test, push, and deploy stages.
